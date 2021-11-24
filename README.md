@@ -27,43 +27,62 @@ L’objectif de ce premier projet est de vous donner toutes les clés pour réus
 ### Projet 2 : Transformez une maquette en site web avec HTML & CSS
 
 Les consignes : https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/Front-End+V2/P2+HTML+%26+CSS/Dev+Web+P2+scenario+29+Sept+2021.pdf
+
 Mon Github : https://github.com/dridritwo/auxentadrien_2_22012021
+
 Ma Live demo : https://brave-thompson-449a3b.netlify.app/
+
 Support de présentation pour la soutenance : https://docs.google.com/presentation/d/1-95iipCzYJUa-2m4mfUCIJTFf6T38Lf4EIqCWLVs1Zw/edit?usp=sharing
 
 ### Projet 3 : Dynamisez une page web avec des animations CSS
 
 Les consignes : https://openclassrooms.com/fr/projects/637/assignment
+
 Mon Github : https://github.com/dridritwo/auxentadrien_ohmyfood
+
 Ma Live demo : https://optimistic-bassi-f2c5e4.netlify.app/
 
 ### Projet 4 : Optimisez un site web existant
 
 Les consignes : https://openclassrooms.com/fr/projects/638/assignment
+
 Mon Github : https://github.com/dridritwo/auxentadrient_lachouetteagence/
+
 Live demo avant : https://dridritwo.github.io/auxentadrient_lachouetteagence/
+
 Ma Live demo après : https://hungry-poincare-0bd1db.netlify.app/
+
 Supports de présentation : https://docs.google.com/presentation/d/1uoOT9ouHOAchTGLmt0AbQCA25iDx9skYwg7HdCPm5qk/edit?usp=sharing
+
 https://docs.google.com/spreadsheets/d/1jCMmlzoOEF3oXdqS4eyypdimCuHHbhFu/edit?usp=sharing&ouid=115513060898511210099&rtpof=true&sd=true
 
 
 ### Projet 5 : Construisez un site e-commerce en JavaScript
 
 Les consignes : https://openclassrooms.com/fr/projects/675/assignment
+
 Mon Github : https://github.com/dridritwo/auxent_adrien_orinoco
+
 Live demo : https://auxent-adrien-orinoco.netlify.app/
 
 ### Projet 6 : Construisez une API sécurisée pour une application d'avis gastronomiques
 
 Les consignes : https://openclassrooms.com/fr/projects/676/assignment
+
 Mon Github : https://github.com/dridritwo/auxent_adrien_So_Pekocko
+
 Live demo : https://dridritwo.github.io/so-pekocko-front/
+
 Support de présentation : https://docs.google.com/presentation/d/1tULgJvPDaOfKQNNxA_hN1JH4QOtHr0xDuk0UGVgKqWw/edit?usp=sharing
 
 ### Projet 7 : Créez un réseau social d’entreprise
 
 Les consignes : https://openclassrooms.com/fr/projects/677/assignment
+
 Mon Github : Back https://github.com/dridritwo/auxent_adrien_groupomania-back
+
 Front https://github.com/dridritwo/auxent-adrien-groupomania-front
+
 Live demo : https://adrien-auxent-groupomania.herokuapp.com/
+
 Support de présentation : https://docs.google.com/presentation/d/1V1vakzesxwY_aYvfTrQeQg5OLU1q8K8Ui_QGgf3DhzE/edit?usp=sharing
