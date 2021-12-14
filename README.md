@@ -84,3 +84,50 @@ Front https://github.com/dridritwo/auxent-adrien-groupomania-front
 Live demo : https://adrien-auxent-groupomania.herokuapp.com/
 
 Support de présentation : https://docs.google.com/presentation/d/1V1vakzesxwY_aYvfTrQeQg5OLU1q8K8Ui_QGgf3DhzE/edit?usp=sharing
+
+## Faut-il recommander openclassrooms ?
+
+### Pros :
+
+-Pas obligé de se déplacer, et ils ont l’habitude de travailler à distance
+
+-Pas obligé de travailler le jour de la formation
+
+-Accès aux autres formations
+
+-Si habitué aux tutos sur internet tu seras comme à la maison
+
+-Le coaching pour trouver une alternance
+
+-Diplome officiel
+
+-Montre la capacité d’autonomie
+
+
+### Contres :
+-Il faut savoir se motiver tout seul, et chercher de son côté
+
+-Ce n’est pas beaucoup plus que des tutos sur internet si on n’exploite pas bien le formateur
+
+-Il faut avoir tout le matériel nécessaire chez soi
+
+-Pas de collègues si on ne fait pas l’effort de les contacter via la plateforme
+
+-On peut facilement se trouver bloqué
+
+-Difficile à faire du travail en équipe organisé par le formateur
+
+
+### Conseil :
+-Ne pas hésiter à changer de formateur s’il ne s’y connait pas assez dans le langage appris
+
+-Bien préparer ses rdv mentorat : liste des choses non comprises
+
+-Ne pas perdre du temps au début car les temps nécessaire par projet sont parfois à côté de la plaque
+
+-Aller plus loin que le cours
+
+-Déployer ses projets
+
+### Et en tant que formateur ?
+
