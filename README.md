@@ -118,7 +118,9 @@ Support de présentation : https://docs.google.com/presentation/d/1V1vakzesxwY_a
 -Difficile à faire du travail en équipe organisé par le formateur
 
 
-### Conseil :
+### Conseils :
+-S'assurer avant de signer avec une entreprise que l'on aura bien un développeur confirmé pour nous aider à monter en compétence.
+
 -Ne pas hésiter à changer de formateur s’il ne s’y connait pas assez dans le langage appris
 
 -Bien préparer ses rdv mentorat : liste des choses non comprises
@@ -129,5 +131,4 @@ Support de présentation : https://docs.google.com/presentation/d/1V1vakzesxwY_a
 
 -Déployer ses projets
 
-### Et en tant que formateur ?
 
